@@ -1,0 +1,50 @@
+_repo: The-Blood-of-the-Arena_33799
+_version: 0.1.0
+alternative_title: Sangre y arena. English
+contributor:
+  illustrators:
+  - agent_name: Kinney, Troy
+    alias: Kinneys, The
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '25249'
+    url: http://www.gutenberg.org/2009/agents/25249
+  - agent_name: Kinney, Margaret West
+    birthdate: 1872
+    gutenberg_agent_id: '25250'
+    url: http://www.gutenberg.org/2009/agents/25250
+  translator:
+    agent_name: Douglas, Frances
+    birthdate: 1870
+    deathdate: 1969
+    gutenberg_agent_id: '32436'
+    url: http://www.gutenberg.org/2009/agents/32436
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Ibáñez, Vicente Blasco
+    - Blasco Ibanez, Vicente
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+description: ''
+gutenberg_issued: '2010-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33799'
+  lccn: '11028879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Bullfighters -- Fiction'
+title: The Blood of the Arena
+url: http://www.gutenberg.org/ebooks/33799
